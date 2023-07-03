@@ -1,5 +1,7 @@
 # CircleCI-Pipeline-GKE
 
+#Set the below Environment Variables:-
+
 your-image-name: The name of your Docker image.
 gcr.io/your-gcp-project: The address of your GCP Docker registry.
 your-gcp-project: Your GCP project ID.
